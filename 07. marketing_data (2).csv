@@ -1,0 +1,11 @@
+Month,Sales_Region_A,Expenses,Visits,Campaign_Group,Satisfaction
+Jan,150,80,120,East,4.2
+Feb,180,95,150,West,4.5
+Mar,220,110,180,East,4.1
+Apr,250,130,210,West,4.6
+May,200,100,160,East,3.9
+Jun,280,145,240,West,4.8
+Jul,310,160,260,East,4.7
+Aug,190,90,140,West,4.0
+Sep,260,135,220,East,4.4
+Oct,330,170,300,West,4.9
